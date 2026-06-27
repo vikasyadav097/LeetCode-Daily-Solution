@@ -33,4 +33,8 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
