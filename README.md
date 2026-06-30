@@ -16,6 +16,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3637-trionic-array-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3637-trionic-array-i) |
@@ -63,6 +64,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
 ## Graph Theory
 |  |
 | ------- |
@@ -88,4 +90,8 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
