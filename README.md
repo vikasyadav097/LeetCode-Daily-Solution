@@ -103,6 +103,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
 ## Number Theory
 |  |
