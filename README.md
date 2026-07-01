@@ -131,4 +131,12 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
