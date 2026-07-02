@@ -22,6 +22,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3637-trionic-array-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
 ## Hash Table
@@ -80,6 +81,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +90,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +106,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +121,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -127,6 +132,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
