@@ -12,6 +12,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -36,6 +37,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Two Pointers
@@ -65,6 +67,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0007-reverse-integer](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -118,6 +121,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Breadth-First Search
 |  |
