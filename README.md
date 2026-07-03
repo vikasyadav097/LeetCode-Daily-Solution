@@ -78,6 +78,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0202-happy-number](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2543-check-if-point-is-reachable](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2543-check-if-point-is-reachable) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -141,6 +142,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
+| [2543-check-if-point-is-reachable](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2543-check-if-point-is-reachable) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Breadth-First Search
 |  |
