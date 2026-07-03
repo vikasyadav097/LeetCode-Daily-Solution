@@ -18,6 +18,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2540-minimum-common-value](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2540-minimum-common-value) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -84,6 +85,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
@@ -91,6 +93,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
 ## Graph Theory
@@ -124,6 +127,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
