@@ -24,6 +24,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
@@ -62,6 +63,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0005-longest-palindromic-substring) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
 ## Math
@@ -90,6 +92,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
 | ------- |
@@ -99,11 +102,13 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +120,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,4 +170,8 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
