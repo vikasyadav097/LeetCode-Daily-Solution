@@ -100,6 +100,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
@@ -148,12 +149,14 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -165,6 +168,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
 | ------- |
