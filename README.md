@@ -45,6 +45,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Two Pointers
@@ -79,6 +80,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0007-reverse-integer](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2543-check-if-point-is-reachable](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2543-check-if-point-is-reachable) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
