@@ -44,6 +44,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0205-isomorphic-strings](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0205-isomorphic-strings) |
 | [1345-jump-game-iv](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2540-minimum-common-value) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -70,6 +71,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0006-zigzag-conversion](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0205-isomorphic-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -216,4 +218,8 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
+## Counting
+|  |
+| ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
