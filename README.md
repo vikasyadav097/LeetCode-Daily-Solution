@@ -18,6 +18,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1301-number-of-paths-with-max-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1345-jump-game-iv](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1732-find-the-highest-altitude](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -236,4 +237,8 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [1348-tweet-counts-per-frequency](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1348-tweet-counts-per-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
