@@ -14,6 +14,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1288-remove-covered-intervals](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1345-jump-game-iv](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -112,6 +113,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1348-tweet-counts-per-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
