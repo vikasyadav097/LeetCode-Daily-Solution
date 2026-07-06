@@ -46,6 +46,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0202-happy-number](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0205-isomorphic-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -76,6 +77,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0006-zigzag-conversion](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0205-isomorphic-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1348-tweet-counts-per-frequency](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1348-tweet-counts-per-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -234,6 +236,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Design
 |  |
