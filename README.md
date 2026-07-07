@@ -42,6 +42,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,4 +260,8 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
