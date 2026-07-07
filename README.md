@@ -107,6 +107,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2543-check-if-point-is-reachable](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2543-check-if-point-is-reachable) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
