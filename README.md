@@ -41,6 +41,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3637-trionic-array-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
