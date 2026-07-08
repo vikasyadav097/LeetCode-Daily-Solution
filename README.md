@@ -91,6 +91,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -257,6 +258,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
