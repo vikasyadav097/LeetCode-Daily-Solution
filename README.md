@@ -72,6 +72,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0005-longest-palindromic-substring](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0202-happy-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2540-minimum-common-value) |
 ## String
@@ -229,6 +230,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -237,6 +239,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Stack
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
