@@ -87,6 +87,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -263,6 +265,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1732-find-the-highest-altitude) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting Sort
 |  |
 | ------- |
