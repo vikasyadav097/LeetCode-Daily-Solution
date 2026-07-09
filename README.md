@@ -70,6 +70,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
