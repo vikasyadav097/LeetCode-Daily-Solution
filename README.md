@@ -40,6 +40,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
@@ -78,6 +79,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -149,6 +152,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -177,6 +181,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
