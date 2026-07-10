@@ -39,6 +39,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -137,6 +138,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2543-check-if-point-is-reachable](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2543-check-if-point-is-reachable) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
