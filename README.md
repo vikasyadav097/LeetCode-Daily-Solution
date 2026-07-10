@@ -23,6 +23,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1840-maximum-building-height](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2126-destroying-asteroids](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -141,6 +142,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2126-destroying-asteroids) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
@@ -160,6 +162,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1833-maximum-ice-cream-bars](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2126-destroying-asteroids) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
