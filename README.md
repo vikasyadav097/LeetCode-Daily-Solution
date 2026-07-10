@@ -37,6 +37,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3093-longest-common-suffix-queries](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -102,6 +103,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3093-longest-common-suffix-queries](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -187,6 +189,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3093-longest-common-suffix-queries) |
 ## Shortest Path
 |  |
 | ------- |
