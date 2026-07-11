@@ -30,6 +30,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2540-minimum-common-value](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2540-minimum-common-value) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -64,6 +65,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1348-tweet-counts-per-frequency](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1348-tweet-counts-per-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -231,6 +233,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
