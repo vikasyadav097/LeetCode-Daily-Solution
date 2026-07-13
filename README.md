@@ -80,6 +80,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1291-sequential-digits) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
