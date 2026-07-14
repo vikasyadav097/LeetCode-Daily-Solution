@@ -45,6 +45,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3093-longest-common-suffix-queries](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -128,6 +129,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1340-jump-game-v](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1340-jump-game-v) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3620-network-recovery-pathways) |
@@ -149,6 +151,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -254,6 +257,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [2543-check-if-point-is-reachable](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2543-check-if-point-is-reachable) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Breadth-First Search
 |  |
 | ------- |
