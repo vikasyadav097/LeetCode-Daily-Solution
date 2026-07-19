@@ -108,6 +108,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0006-zigzag-conversion](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0205-isomorphic-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1348-tweet-counts-per-frequency](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1348-tweet-counts-per-frequency) |
@@ -165,6 +166,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2126-destroying-asteroids) |
@@ -312,11 +314,13 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3638-maximum-balanced-shipments](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3638-maximum-balanced-shipments) |
 ## Topological Sort
 |  |
