@@ -15,6 +15,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1260-shift-2d-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1340-jump-game-v) |
@@ -288,6 +289,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -329,6 +331,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3614-process-string-with-special-operations-ii) |
