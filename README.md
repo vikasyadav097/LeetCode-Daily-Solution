@@ -47,6 +47,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -158,6 +159,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -259,6 +261,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0201-bitwise-and-of-numbers-range](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Number Theory
