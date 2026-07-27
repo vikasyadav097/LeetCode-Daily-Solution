@@ -22,6 +22,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1340-jump-game-v](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -199,6 +200,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1340-jump-game-v](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1348-tweet-counts-per-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -256,6 +258,7 @@ This repo helps me track consistency and prepare for coding interviews.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
