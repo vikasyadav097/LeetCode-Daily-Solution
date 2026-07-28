@@ -128,6 +128,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3120-count-the-number-of-special-characters-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -209,6 +210,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [2542-maximum-subsequence-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2542-maximum-subsequence-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3011-find-if-array-can-be-sorted) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -376,6 +378,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
 |  |
 | ------- |
