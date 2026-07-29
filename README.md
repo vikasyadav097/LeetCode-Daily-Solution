@@ -82,6 +82,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
 |  |
@@ -129,6 +130,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -167,6 +169,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -361,6 +364,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
 | ------- |
@@ -388,4 +392,8 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
