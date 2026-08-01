@@ -14,6 +14,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0033-search-in-rotated-sorted-array](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1260-shift-2d-grid](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1260-shift-2d-grid) |
@@ -141,6 +142,7 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0486-predict-the-winner](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1340-jump-game-v) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -159,6 +161,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0007-reverse-integer](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1840-maximum-building-height) |
@@ -339,6 +342,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -401,4 +405,8 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
