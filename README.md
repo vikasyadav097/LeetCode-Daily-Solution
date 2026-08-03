@@ -24,6 +24,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [1340-jump-game-v](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1406-stone-game-iii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -147,6 +148,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0877-stone-game](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1406-stone-game-iii) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -167,6 +169,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [0628-maximum-product-of-three-numbers](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1840-maximum-building-height) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -413,4 +416,13 @@ This repo helps me track consistency and prepare for coding interviews.
 | ------- |
 | [0486-predict-the-winner](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
