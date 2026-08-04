@@ -65,6 +65,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3640-trionic-array-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3640-trionic-array-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -88,6 +89,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -231,6 +233,7 @@ This repo helps me track consistency and prepare for coding interviews.
 | [3536-maximum-product-of-two-digits](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
