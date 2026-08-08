@@ -1,13 +1,58 @@
-# LeetCode Daily Solutions
+<div align="center">
 
-This repository contains my daily LeetCode problem solutions.  
-I upload solutions regularly to improve my problem-solving and DSA skills.  
-Each problem is organized in its own folder with a clean solution file.  
-Solutions are mainly written in C++.  
-This repo helps me track consistency and prepare for coding interviews.
+# 🧩 LeetCode POTD Solutions
+
+### 📅 Daily Problem of the Day — Solved & Synced Every Single Day 🔥
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Daily Streak](https://img.shields.io/badge/Streak-🔥%20Active-brightgreen?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/yourusername/leetcode-potd?style=flat-square&color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/yourusername/leetcode-potd?style=flat-square&color=orange)
+
+</div>
+
+---
+
+## 📖 About
+
+> 🧠 This repository is my personal log of **LeetCode's Problem of the Day (POTD)**, solved and uploaded **daily** as part of my consistent DSA & competitive programming practice.
+
+- 📌 One problem, every single day — no skipping!
+- 💻 Clean, concise, and runnable solutions
+- ⚡ Languages: **C++** & **Python**
+- 🎯 Goal: Build strong problem-solving muscle & consistency
+
+---
+
+
+
+---
+
+## 🏆 Topics Covered
+
+`🌀 Sliding Window` &nbsp; `🌲 Trees` &nbsp; `🔗 Graphs (BFS/DFS)` &nbsp; `🧮 DP` &nbsp; `📐 Segment Trees` &nbsp; `🔤 Tries` &nbsp; `➗ Number Theory` &nbsp; `📊 Greedy` &nbsp; `🧵 Fenwick Trees`
+
+---
+
+
+
+---
+
+<div align="center">
+
+### ⭐ If you find this helpful, consider giving it a star!
+
+**"Consistency beats intensity."** 💪🚀
+
+</div>
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# 🧠 LeetCode Topics 
 ## Array
 |  |
 | ------- |
@@ -443,4 +488,22 @@ This repo helps me track consistency and prepare for coding interviews.
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vikasyadav097/LeetCode-Daily-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+
+---
+
+## 📜 License
+
+This repository is open-sourced under the [MIT License](LICENSE).
+
+## 🙌 Contributing
+
+Found a better approach or an optimized solution? Feel free to open a PR! 🚀
+
+---
+
+<div align="center">
+
+### 🌟 Star this repo if it motivates you to code daily!
+
+</div>
 <!---LeetCode Topics End-->
